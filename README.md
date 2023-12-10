@@ -1,21 +1,28 @@
-<<<<<<< HEAD
-# rocket3
+# Jungle Harvest
 
-A new Flutter project.
+Jungle Harvest is an adventurous 2D game built with Flutter Flame, where a playful monkey navigates through lush jungle environments to catch bananas and various fruits. Dodge obstacles, aim for high scores, and enjoy the tropical adventure!
+
+## Features
+
+- **Monkey Gameplay**: Control a lively monkey character in a vibrant jungle setting.
+- **Fruit Catching**: Gather bananas and a variety of fruits as you traverse through levels.
+- **Obstacle Avoidance**: Dodge challenging obstacles to keep the monkey moving forward.
+- **Scoring and Levels**: Aim for high scores and progress through engaging levels.
+
+## Tech Stack
+
+- **Flutter**: UI development and overall app framework.
+- **Flame**: Game engine for 2D game development.
+- **Dart**: Primary programming language for the game.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Ensure you have Flutter installed. [Install Flutter](https://flutter.dev/docs/get-started/install)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# JungleHarvest
-Join the fun as a playful monkey ventures through vibrant jungles to collect delicious bananas! Traverse lush landscapes, dodge obstacles, and aim for high scores in this adventurous game. Contribute, report issues, or suggest enhancements. Let the jungle adventure begin!
->>>>>>> eb08fd6316158b7d4ee1f291bbd060c413891f5a
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your_username/JungleHarvest.git
